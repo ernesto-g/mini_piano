@@ -1,6 +1,6 @@
 # Mini piano
 
-![alt text](https://raw.githubusercontent.com/ernesto-g/mini_piano/Pictures/Schematic.png)
+![alt text](https://raw.githubusercontent.com/ernesto-g/mini_piano/master/Pictures/Schematic.png)
 
 
 Characteristics:
