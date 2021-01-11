@@ -682,7 +682,7 @@ OSCILLATORS
 Text Notes 1700 3800 0    50   ~ 0
 D5
 Text Notes 3100 3800 0    50   ~ 0
-F5
+F#5
 Text Notes 4500 3800 0    50   ~ 0
 G5
 Text Notes 5950 3800 0    50   ~ 0
@@ -1043,7 +1043,7 @@ KEYS
 Text Notes 1200 2750 0    50   ~ 0
 Adjust for 587,33 Hz
 Text Notes 2550 2750 0    50   ~ 0
-Adjust for 698,46 Hz
+Adjust for 739,98 Hz
 Text Notes 4000 2750 0    50   ~ 0
 Adjust for 784 Hz
 Text Notes 5450 2750 0    50   ~ 0

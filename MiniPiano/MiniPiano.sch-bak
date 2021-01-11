@@ -1040,4 +1040,16 @@ Wire Notes Line
 	2950 4950 1400 4950
 Text Notes 2050 7200 0    50   ~ 0
 KEYS
+Text Notes 1200 2750 0    50   ~ 0
+Adjust for 587,33 Hz
+Text Notes 2550 2750 0    50   ~ 0
+Adjust for 698,46 Hz
+Text Notes 4000 2750 0    50   ~ 0
+Adjust for 784 Hz
+Text Notes 5450 2750 0    50   ~ 0
+Adjust for 880 Hz
+Text Notes 6800 2750 0    50   ~ 0
+Adjust for 1046,50 Hz
+Text Notes 8250 2750 0    50   ~ 0
+Adjust for 1174,66 Hz
 $EndSCHEMATC
