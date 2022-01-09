@@ -360,7 +360,7 @@ L Device:R R10
 U 1 1 5FF76029
 P 4100 3000
 F 0 "R10" V 3893 3000 50  0000 C CNN
-F 1 "12k" V 3984 3000 50  0000 C CNN
+F 1 "18k" V 3984 3000 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 4030 3000 50  0001 C CNN
 F 3 "~" H 4100 3000 50  0001 C CNN
 	1    4100 3000
@@ -496,7 +496,7 @@ L Device:R R14
 U 1 1 5FF8190D
 P 6950 3000
 F 0 "R14" V 6743 3000 50  0000 C CNN
-F 1 "8.2k" V 6834 3000 50  0000 C CNN
+F 1 "10k" V 6834 3000 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 6880 3000 50  0001 C CNN
 F 3 "~" H 6950 3000 50  0001 C CNN
 	1    6950 3000
@@ -564,7 +564,7 @@ L Device:R R15
 U 1 1 5FF84B42
 P 8400 3000
 F 0 "R15" V 8193 3000 50  0000 C CNN
-F 1 "6.8k" V 8284 3000 50  0000 C CNN
+F 1 "8.2k" V 8284 3000 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 8330 3000 50  0001 C CNN
 F 3 "~" H 8400 3000 50  0001 C CNN
 	1    8400 3000
@@ -682,7 +682,7 @@ OSCILLATORS
 Text Notes 1700 3800 0    50   ~ 0
 D5
 Text Notes 3100 3800 0    50   ~ 0
-F5
+F#5
 Text Notes 4500 3800 0    50   ~ 0
 G5
 Text Notes 5950 3800 0    50   ~ 0
@@ -1043,7 +1043,7 @@ KEYS
 Text Notes 1200 2750 0    50   ~ 0
 Adjust for 587,33 Hz
 Text Notes 2550 2750 0    50   ~ 0
-Adjust for 698,46 Hz
+Adjust for 739,98 Hz
 Text Notes 4000 2750 0    50   ~ 0
 Adjust for 784 Hz
 Text Notes 5450 2750 0    50   ~ 0
